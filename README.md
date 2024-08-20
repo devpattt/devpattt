@@ -1,7 +1,7 @@
 ### Hi, I'm Patrick 
 
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech </br>
-👩🏻‍🎓 Studied Bachelor of Science in Information Technology at Bestlink College of the Philippines</br>
+👩🏻‍🎓 Studying Bachelor of Science in Information Technology at Bestlink College of the Philippines</br>
 💭 Currently learning about data structures and algorithms!</br>
 
 
