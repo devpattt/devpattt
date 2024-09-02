@@ -5,8 +5,6 @@
 💭 Currently learning about data structures and algorithms!</br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpattt&show_icons=true&theme=transparent)
-
 # 💻 Tech Stacks
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
