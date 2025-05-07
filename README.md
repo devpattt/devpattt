@@ -4,8 +4,6 @@
 👩🏻‍🎓 Studying Bachelor of Science in Information Technology at Bestlink College of the Philippines</br>
 💭 Currently learning about data structures and algorithms!</br>
 
-
-
 # 💻 Tech Stacks
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
